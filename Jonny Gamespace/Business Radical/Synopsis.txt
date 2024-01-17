@@ -1,0 +1,104 @@
+
+Synopsis:
+In my beat-em-up RPG style videogame, Jane Blades works for a Neuralink company where Roman Dole, the spineless HR manager, lets her know that she has just been let go "due to restructuring" after she is left to assume Monique Rudolph has convinced the owners, Tu and Wan Bird, that it would make sense to budget cut her position. Unfortunately, Jane helps and does so much work for everyone on staff that everyone is struggling and thinks the company culture is going to be worse after she's gone, but they're all also acting very strangely when she confronts them. 
+
+Exasperated, she tells her best co-worker friend Ashley about it, and he recommends that she borrow the prototype device the company is working on after it had helped him with some of his issues. She wears it and goes to sleep, and has the most lucid, wild dreams at night. She dreams that she, Ashley Blackwell, Nina Andre, and Roy Blessmore are working together to fight a legion of AI-like beings (no offense) and monsters within each level. The first boss character is Roman, who in his dream-like state mentions to her that things are not quite as they seem in the real world. At the end of the level, she witnesses Roman's lack of confidence and tells him the only way to get through life is to fight, and they literally battle Roman's demons. 
+
+Changes and growth in each character reflects in the real world each night that Jane uses the machine, and she fights through the levels of the rest of the employees until she reaches the "final" boss Monique. She learns Monique actually wanted Linda Bird, Tu and Wan's cousin, to leave the company, but the Birds decided to get rid of Jane in her place. All of Monique's hardworking determined life, people have taken advantage of her, and she reveals that she agreed to "do this" in order to see how it affects culture at the jobsite. Monique tells Jane she'll wear her device tomorrow night and that they'll be able to actually "put a stop to things around here." At that point Monique joins the party as well, and everything in real life will reflect what happened that night, although the colleagues all seem very nervous.
+
+At the last level, Monique shows Jane that she has been tricked. Monique takes Jane through portals of each character, including Ashley, Nina, and Troy (Troy mentions becoming a subcontractor only after witnessing the horrifyingly illegal activites at the business). The device works best when put under stressful conditions, and Tu and Wan have decided to see what kind of "healthy work culture" Jane could inject into their dying company. Final battle, Jane resigns from the company, Monique does too with a "fuck your non-compete" and a lawsuit.
+
+
+
+JANE OPAL BLADES
+Jane of all Blades- skilled in all areas but not a master, does everyone's job
+"Jack of All Trades"
+	Operations Manager- overseeins all aspects of the business, logistics to staff management
+
+ASHLEY BLACKWELL
+Iceley Breakwell- known for his ability to ease tension and start convos
+"Break the Ice"
+	Corporate Communications- able to smooth mistakes over
+
+NINA ANDRE
+Nala Onthead- super accurate character known to get to the core of any issue
+"Hit the Nail on the Head"
+	Data Analyst- accuracy and insight are key
+
+TROY BLESSMORE
+Royston Lesmoss- nomadic character, no settling
+"A rolling stone gathers no moss"
+	Business Advisor/Contractor- kind of an aloof remote project advisor
+
+
+
+ROMAN DOLE
+Roman Dolario- does exactly as whoever he's next to does
+"When in Rome, Do as the Romans Do"
+	HR- adpats to whomever he's around, fake as heck but matures over the game
+Real world: he constantly changes his office's furniture and interior design, and should be a staple of where/how to visit the next character. You can ask about certain characters and he might give you hints he's not supposed to about where to "go" next. The environment dynamically shifts as you progress, and this will reflect your progress as you go.
+Dream world: The level is a volcanic corporate landscape, with rivers of lava and shifting platforms. The office structures morph and change like moving magma, symbolizing Roman's adaptability and fiery energy. This level teaches the player basic combat and doesn't have much strategy or RPG elements to it.
+
+CARRIE CURIO
+Catherine Cureese- curious character, damsel in distress type
+"Curiosity Killed the Cat"
+	Marketing and PR- always in everyone's business, finds out first
+Real world: Typical loud newsroom or a social media hub, filled with screens displaying the latest trends and gossip.
+Dream world: A floating, cloud-based newsroom high in the sky. Teaches the player that this isn't a normal beat-em-up, and timing your jumps will be important. One section where the floor gets "stormy" and will alert you to electricity popping on the ground which you can use to your benefit. The gravity of the environment is dynamic and airy.
+
+GREY STEIN-LAKE
+Gary Mineslike- intellectual character who "predicts" where you go next
+"Great Minds Think Alike"
+	Planner- predicitng next moves
+Real world: Strategy room, think the Charlie conspiracy meme.
+Dream world: A towering mountain fortress with strategic points and holographic maps, resembling an earthy, fortified castle. The level's challenges involve navigating through rocky terrain and solving strategic puzzles, aligning with Gary's role and the earthy nature.
+
+DARLA COLLEEN EVERHEART
+Starla Coltofever- the weirdo, unconventional methods to solve things
+"Starve a Cold, Feed a Fever"
+	Research and Development- totally unconventional thinking
+
+Real world: An eccentric, whimsical laboratory filled with bizarre inventions and unconventional gadgets. The team speaks with Darla to buy upgrades and practice equipping them.
+Dream world: An underwater laboratory filled with fantastical sea creatures and aquatic inventions from Darla. This is a swimming level and yeah, your characters can probably drown. We'll see how much pressure should be added if this ever came out.
+
+NILES RYDER FINCH
+Myles Wyde-Aninche: vast but superficial knowledge
+"A Mile Wide and an Inch Deep"
+	Sales Consultant- broad but meaningless knowledge
+Real world: A flashy sales showroom, superficially impressive but lacking in substance with framed achievements like "Tried the Hardest" from 2012.
+Dream world: A grand, opulent palace with a sun motif, adorned in gold and filled with dramatic, theatrical challenges. Mini-games are here for getting or losing a lot of currency at once.
+
+MILLA SPILLMAN
+Milka Spillcry- dwells on any mistake made
+"Don't Cry Over Spilled Milk"
+	Quality Assurance- focusing on mistakes
+Real world: A meticulous and pristine testing facility, where even the smallest flaws are highlighted. 
+Dream world: A lush, enchanted garden with intricate patterns and detailed puzzles. The environment is pristine and requires meticulous exploration, reflecting Milla's focus on detail.
+
+MONIQUE RUDOLPH
+Monique Rootival- wealthy but morally ambiguous
+"Money is the Root of All Evil"
+	Finance Strategist- fits well with high-stakes finance and investment roles
+Real world: one of the top floors of a skyscraper, nice view.
+Dream world: Uniquely realistic, Monique is atop a luxurious cityscape built on a massive, ancient tree, symbolizing wealth and stability. The level combines natural elements with opulence, featuring challenges that involve navigating through a mix of natural and man-made obstacles.
+
+LINDA (LIN) BIRD (Leo)
+Earlynda Birdworth- takes initiative, always being ahead of others
+"The Early Bird Gets the Worm"
+	Project Manager- oversees timelines and deliverables
+Real world: fast-paced chaotic construction site, reflecting Linda's poor initiative and foresight.
+Dream world: A high-speed site amidst a fiery desert, where players must keep up with rapid changes and dynamic challenges. A portion of the level is running away from the growing sink-hole (lol quicksand fear). The dangerous setting reflects Linda's character.
+
+BLAKE BENNET (Taurus)
+Blythe Bullitt- a stoic, strong character
+"Bite the Bullet"
+	Security Management- stoic and strong nature well-suited for risk management
+Real world: high-security entry, world you can find upgrades to your strategic combat.
+Dream world: The level is set in a surreal, mountainous terrain, but with a twist – the entire landscape looks like it's been hand-painted, reflecting Blake's artistic hobby. The mountains, trees, and skies have bold, exaggerated colors and brushstrokes, giving the impression of a living painting. Certain parts of the landscape can be interactively 'painted' or 'redrawn' by the player to solve puzzles or unlock new areas. For instance, drawing a bridge to cross a chasm, or coloring a hidden door to reveal it.
+
+TU (Plan) BIRD / WAN (Graceful) BIRD (Capricorn)
+Tul/Wan Birdstone- fraternal twins who depend on each other to finish tasks
+"Kill Two Birds with One Stone"
+	Co-Owners- collaboration and teamwork are essential
+Real world: the top of twin-towered corporate headquarters, requiring players to split up and simultaneously navigate both towers, which are interconnected and dependent on each other.
+Dream world: the environment has a celestial theme, with constellations, nebulae, and cosmic phenomena playing a significant role in puzzles and navigation. Throughout the level, characters from previous levels make cameo appearances to assist in specific tasks, reflecting their unique abilities and contributions. For example, Roman could help adapt strategies by thinking for himself, Catherine could provide crucial information and then wing it, Linda stays a mess but it helps in some way, and Blake might come in and offer strength but then understand that his artistic mind is the solution to the puzzle.
