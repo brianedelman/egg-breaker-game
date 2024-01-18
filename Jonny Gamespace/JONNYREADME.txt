@@ -6,3 +6,7 @@ This is where Jonny's games live, testing, 1, 2, 3.
 I am of the opinion that my life belongs to the whole community, and as long as I live it is my privilege to do for it whatever I can."
 
 -George Bernard Shaw
+
+"Thank you for putting all of this information into baby language for me. Just because I need baby language does not mean I need Baby Park. Stop picking Baby Park, it's been 3 years of you jokers picking Baby Park. I've HAD IT!!!" 
+
+-Joe Bisciotti
