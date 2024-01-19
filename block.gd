@@ -36,6 +36,10 @@ func fade_out():
 	
 	
 func destroy():
+ # Play audio here
+	var audio_stream_player = $AudioStreamPlayer
+	audio_stream_player.play()
+	
 	queue_free()
 	brick_destroyed.emit()
 	

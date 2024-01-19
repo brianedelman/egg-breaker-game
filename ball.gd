@@ -38,6 +38,12 @@ func _physics_process(delta):
 		ball_collision(collider)
 	else:
 		velocity = velocity.bounce(collision.get_normal())
+		
+# Calculate rotation based on movement
+	var rotation_angle = velocity.angle()
+	
+	rotation = rotation_angle
+	
 	
 func start_ball():
 	position = start_position
@@ -61,7 +67,7 @@ func reset_ball():
 	velocity = Vector2.ZERO
 	
 func ball_collision(collider):
-	var ball_width = $CollisionShape2D.shape.get_rect().size.x
+	var _ball_width = $CollisionShape2D.shape.get_rect().size.x
 	var ball_center_x = position.x
 	var collider_width = collider.get_width()
 	var collider_center_x = collider.position.x
@@ -81,6 +87,6 @@ func ball_collision(collider):
 		
 	new_velocity.y = sqrt(absf(velocity_xy * velocity_xy - new_velocity.x * new_velocity.x)) * (-1 if velocity.y > 0 else 1)
 	
-	var speed_multiplier = speed_up_factor if collider is Paddle else 1
+	var speed_multiplier = speed_up_factor if collider is Paddle else 1.0
 	
 	velocity = (new_velocity * speed_multiplier).limit_length(VELOCITY_LIMIT)

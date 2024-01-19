@@ -1,7 +1,8 @@
-[gd_scene load_steps=4 format=3 uid="uid://c8vjno1q34wx5"]
+[gd_scene load_steps=5 format=3 uid="uid://c8vjno1q34wx5"]
 
-[ext_resource type="Texture2D" uid="uid://b8l55yh13txr" path="res://graphics/objects/ventilation_surface_small.png" id="1_e41sd"]
 [ext_resource type="Script" path="res://block.gd" id="1_w6rch"]
+[ext_resource type="Texture2D" uid="uid://6y3hqbcvykm" path="res://graphics/objects/kblock2.png" id="2_0v8oh"]
+[ext_resource type="AudioStream" uid="uid://boy8mgpeyfvjg" path="res://sfx/boo.wav" id="3_7pww2"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_nt3va"]
 size = Vector2(125, 36)
@@ -15,8 +16,11 @@ script = ExtResource("1_w6rch")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 scale = Vector2(0.25, 0.25)
-texture = ExtResource("1_e41sd")
+texture = ExtResource("2_0v8oh")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0.5, 1)
 shape = SubResource("RectangleShape2D_nt3va")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("3_7pww2")
