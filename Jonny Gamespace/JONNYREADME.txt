@@ -10,3 +10,5 @@ I am of the opinion that my life belongs to the whole community, and as long as 
 "Thank you for putting all of this information into baby language for me. Just because I need baby language does not mean I need Baby Park. Stop picking Baby Park, it's been 3 years of you jokers picking Baby Park. I've HAD IT!!!" 
 
 -Joe Bisciotti
+
+I just need to make a change! -Joe
